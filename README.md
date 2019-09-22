@@ -1,6 +1,6 @@
 # Como fazer testes unitários com ViewModel no Android
 
-Esse repositório é o exemplo usado neste vídeo (https://youtu.be/DPeLiKpZpA8) onde explico como testar o ViewModel no Android.
+Esse repositório é o exemplo usado neste tutorial (https://youtu.be/DPeLiKpZpA8), onde explico como testar o ViewModel no Android.
 
 ### Quer baixar o código para fazer junto com o tutorial?
 https://github.com/douglasiacovelli/testes-unitarios-viewmodel/tree/antes-testes-unitarios
