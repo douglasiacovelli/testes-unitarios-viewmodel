@@ -5,6 +5,8 @@ Esse repositório é o exemplo usado neste vídeo (https://youtu.be/DPeLiKpZpA8)
 ### Quer baixar o código para fazer junto com o tutorial?
 https://github.com/douglasiacovelli/testes-unitarios-viewmodel/tree/antes-testes-unitarios
 
+É só baixar o zip ou clonar o repositório e dar `git checkout antes-testes-unitarios`
+
 ### Quer ver apenas o que foi editado no vídeo?
 https://github.com/douglasiacovelli/testes-unitarios-viewmodel/pull/1
 
